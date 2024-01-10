@@ -107,8 +107,7 @@ The game demonstrates key concepts from the AP Physics 1 curriculum, including:
 
 - Kinematics in one and two dimensions
 - Newton's laws of motion
-- Concepts of work, energy, and power
-- Principles of linear momentum and collisions
+- Friction and collisions
 
 
 
