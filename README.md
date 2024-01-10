@@ -4,7 +4,7 @@
 
 ## Overview
 
-This game, designed in Python with Pygame, is a physics-based simulation that provides an interactive and visual representation of key concepts from AP Physics 1. It allows users to control a ball's movement, observing real-time changes in velocity, acceleration, and distance traveled. The game's physics engine calculates the trajectory of the ball under the influence of gravity and user interactions, offering a practical understanding of kinematics and dynamics.
+This game, designed in Python, is a physics-based simulation that provides an interactive and visual representation of key concepts from AP Physics 1. It allows users to control a ball's movement, observing real-time changes in velocity, acceleration, and distance traveled. The game's physics engine calculates the trajectory of the ball under the influence of gravity and user interactions, offering a practical understanding of kinematics and dynamics.
 
 ## Game Physics and Mathematics
 
