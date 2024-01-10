@@ -111,5 +111,13 @@ The game demonstrates key concepts from the AP Physics 1 curriculum, including:
 - Principles of linear momentum and collisions
 
 
-https://github.com/dot-ammar/Physics_Ball_Simulator/assets/80134790/ef93fdf8-1283-44cc-8071-2ce82eb8996b
 
+https://github.com/dot-ammar/Physics_Ball_Simulator/assets/80134790/4e02a976-af97-49e9-b5ca-2c48e66de5ea
+
+
+<img width="1000" alt="image" src="https://github.com/dot-ammar/Physics_Ball_Simulator/assets/80134790/03f81138-ea74-4daa-ba76-0a21b525be0f">
+
+Key observation from metrics:
+- Acceleration is constant `9.8m/s^2`
+- X Velocity is constant through the air.
+- Y Velocity changes due to acceleration.
