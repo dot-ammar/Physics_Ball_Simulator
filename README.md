@@ -6,11 +6,11 @@
 
 This game, I wrote in Python, is a physics-based simulation that provides an interactive and visual representation of key concepts from AP Physics 1. It allows users to control a ball's movement, observing real-time changes in velocity, acceleration, and distance traveled. The game's physics engine calculates the trajectory of the ball under the influence of gravity and user interactions, offering a practical understanding of kinematics and dynamics.
 
-## Game Physics and Mathematics
+## Game Physics, Mathematics, and Code
 
 ### Gravity and Ball Movement
 
-The Game simulates gravity and its effect on the ball's movement. Gravity is defined in terms of pixesl per frame squared, scaled to the screen's dimensions:
+The Game simulates gravity and its effect on the ball's movement. Gravity is defined in terms of pixels per frame squared, scaled to the screen's dimensions:
 
 ```python
 PIXELS_PER_METER = 100
