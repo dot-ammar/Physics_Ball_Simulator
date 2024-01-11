@@ -1,6 +1,6 @@
 # Physics Ball Simulator
 
-## Try The game: [Physics Ball Simulator by dot-ammar](https://dot-ammar.itch.io/physics-ball-simulator)
+## Try the game: [Physics Ball Simulator by dot-ammar](https://dot-ammar.itch.io/physics-ball-simulator)
 
 ## Overview
 
