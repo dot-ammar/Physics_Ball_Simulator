@@ -29,14 +29,14 @@ for _ in range(max_steps):
     path.append((x, y))
 ```
 
-The program is written in a way that this is similar to:
+Velocity is calculated in a way that is essentially:
 
 ```python
 pos_x += vel_x * time_step
 pos_y += vel_y * time_step + 0.5 * gravity * time_step ** 2
 vel_y += gravity * time_step
 ```
-
+#### Kinematic Equations
 $$
 x = x_o + v_{xo}t+\frac12at^2
 $$
